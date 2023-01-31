@@ -102,12 +102,12 @@ To install Allure, download and install Scoop and then execute in the Powershell
  <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/ac317373af3ae2d5d157c670c1d7cd57799fcdef/report_icons/frameworks%20:%20languages/colored/php.png" height="70"/>
   </p>
 <p align="center">
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/ac317373af3ae2d5d157c670c1d7cd57799fcdef/report_icons/frameworks%20:%20languages/colored/php.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/ac317373af3ae2d5d157c670c1d7cd57799fcdef/report_icons/frameworks%20:%20languages/colored/php.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/ac317373af3ae2d5d157c670c1d7cd57799fcdef/report_icons/frameworks%20:%20languages/colored/php.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/ac317373af3ae2d5d157c670c1d7cd57799fcdef/report_icons/frameworks%20:%20languages/colored/php.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/ac317373af3ae2d5d157c670c1d7cd57799fcdef/report_icons/frameworks%20:%20languages/colored/php.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/ac317373af3ae2d5d157c670c1d7cd57799fcdef/report_icons/frameworks%20:%20languages/colored/php.png" height="70"/>
+ <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/facebook.png" height="70"/>
+ <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/github.png" height="70"/>
+ <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/linkedin.png" height="70"/>
+ <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/tg.png" height="70"/>
+ <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/twitter.png" height="70"/>
+ <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/youtube.png" height="70"/>
   </p>
 ## Allure TestOps
     
@@ -117,13 +117,14 @@ Now, Allure TestOps Cloud is generally available to all development teams! Try i
     
 [![Allure TestOps](.github/allure-testops-cloud-now.jpg)][site]
     
-## Join Allure community
-
-Follow [@QametaSoftware][twitter] and its [team members][twitter-team] on Twitter. In-depth articles can be found at [Qameta Software Blog][blog]. 
-
-There are thousands of Allure users all over the world. Feel free to join [GitHub Discussions][discussions] to ask questions, share ideas, or help others with a piece of advice.
-
-If you are looking for a wholesome company of Allure folks, take a look at [Gitter chat][gitter].
+## 🏡Join Allure community🏡
+<a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/youtube.png" height="70"/>
+ <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/twitter.png" height="70"/>
+ <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/tg.png" height="70"/>
+ <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/linkedin.png" height="70"/>
+ <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/github.png" height="70"/>
+ <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/facebook.png" height="70"/>
+  </p>
     
 ## Code of Conduct
 
