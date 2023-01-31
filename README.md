@@ -101,14 +101,6 @@ To install Allure, download and install Scoop and then execute in the Powershell
  <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/ac317373af3ae2d5d157c670c1d7cd57799fcdef/report_icons/frameworks%20:%20languages/colored/php.png" height="70"/>
  <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/ac317373af3ae2d5d157c670c1d7cd57799fcdef/report_icons/frameworks%20:%20languages/colored/php.png" height="70"/>
   </p>
-<p align="center">
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/facebook.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/github.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/linkedin.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/tg.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/twitter.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/youtube.png" height="70"/>
-  </p>
 ## Allure TestOps
     
 DevOps-ready Testing Platform built to reduce code time-to-market without quality loss. Level up your product quality control and boost your QA and development team productivity by setting up your TestOps. 
