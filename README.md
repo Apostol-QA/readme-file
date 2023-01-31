@@ -19,24 +19,25 @@
 
 <h3 align="center">🚀🚀🚀 Welcome to Allure Report 🚀🚀🚀</h3>
 <p align="center"><a href="https://qameta.io/allure-report/" target="_blank"><img src="https://github.com/apostolst/readme-file/blob/112b6e61f8763cb93f9623c56972058020f9f264/report_icons/LogoReport.png" height="300"/></p>
- <p align="center">
-  <a href="https://on.cypress.io">Documentation</a> |
-  <a href="https://on.cypress.io/changelog">Changelog</a> |
-  <a href="https://on.cypress.io/roadmap">Roadmap</a>
+ <h3 align="center">
+   🫶🏻We did it, with care for everyone QA Engineer🫶🏻
+</h3> 
+<p align="center">
+  <a href="https://docs.qameta.io/allure-report/">Documentation</a> |
+  <a href="https://github.com/allure-framework/allure2/releases">Changelog</a> |
+  <a href="https://github.com/allure-framework/allure2/releases">Roadmap</a>
  </p>
 
 
-
-[![build-badge][]][build] [![release-badge][]][release] [![maven-badge][]][maven] [![Backers on Open Collective](https://opencollective.com/allure-report/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/allure-report/sponsors/badge.svg)](#sponsors)
-
+## What is Allure Report?
 Allure Report is a flexible multi-language test report tool to show you a detailed representation of what has been tested end extract max from the everyday execution of tests. 
+<h3
+<img src="[https://github.com/apostolst/readme-file/blob/a08ba3a07059f4b625ab97e933f45a6418ae87b4/report_icons/How%20Allure%20Report%20works.png]"
+ <h3 align="center">
 
-![Allure Report](.github/allure-report-gif.gif)
 
 Allure Report is capable to build unified reports for dozens of testing tools across eleven programming languages on several CI/CD systems. 
 Read more at the [official website](https://qameta.io/allure-report) of the project.
-
-![How Allure Report works](.github/how_allure_works.jpg)
 
 ## Download
 
@@ -87,5 +88,5 @@ This project exists thanks to all the people who contributed. [[Contribute]](.gi
 <a href="https://github.com/allure-framework/allure2/graphs/contributors"><img src="https://opencollective.com/allure-report/contributors.svg?avatarHeight=24&width=890&showBtn=false" /></a>
 
 ## License
-
 The Allure Framework is released under version 2.0 of the [Apache License][license].
+[![build-badge][]][build] [![release-badge][]][release] [![maven-badge][]][maven] [![Backers on Open Collective](https://opencollective.com/allure-report/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/allure-report/sponsors/badge.svg)](#sponsors)
