@@ -31,11 +31,11 @@
 
 ## What is Allure Report?
 Allure Report is a flexible multi-language test report tool to show you a detailed representation of what has been tested end extract max from the everyday execution of tests. 
-<h3
-<img src="[https://github.com/apostolst/readme-file/blob/a08ba3a07059f4b625ab97e933f45a6418ae87b4/report_icons/How%20Allure%20Report%20works.png]"
- <h3 align="center">
-
-
+<p align="center">
+  <a href="https://qameta.io/allure-report/">
+    <img alt="What is Allure Report" src="https://github.com/apostolst/readme-file/blob/a08ba3a07059f4b625ab97e933f45a6418ae87b4/report_icons/How%20Allure%20Report%20works.png" height="75%" />
+  </a>
+</p>
 Allure Report is capable to build unified reports for dozens of testing tools across eleven programming languages on several CI/CD systems. 
 Read more at the [official website](https://qameta.io/allure-report) of the project.
 
