@@ -39,7 +39,18 @@ Allure Report is a flexible multi-language test report tool to show you a detail
 Allure Report is capable to build unified reports for dozens of testing tools across eleven programming languages on several CI/CD systems. 
 Read more at the [official website](https://qameta.io/allure-report) of the project.
 
-## Download
+## 🏃🏼Let's Begin!!!🏃🏼
+
+You can use one of the following ways to get Allure:
+
+- Grab it from [releases](https://github.com/allure-framework/allure2/releases) (see Assets section).
+- Using Homebrew:
+    
+    `$ brew install allure`
+    
+- For Windows, Allure is available from the [Scoop](http://scoop.sh/) commandline-installer. To install Allure, download and install Scoop and then execute in the Powershell:
+    
+    `scoop install allure`
 
 You can use one of the following ways to get Allure:
 
@@ -57,9 +68,9 @@ To install Allure, download and install Scoop and then execute in the Powershell
     ```
 
 
-## Documentation
+## ✨Integrations✨
 
-All the documentation is available [on our website][docs].
+<p align="center"><a href="https://qameta.io/allure-report/" target="_blank"><img src="https://github.com/apostolst/readme-file/blob/112b6e61f8763cb93f9623c56972058020f9f264/report_icons/LogoReport.png" height="300"/></p>
 
 ## Allure TestOps
     
