@@ -91,12 +91,12 @@ To install Allure, download and install Scoop and then execute in the Powershell
  <a href="https://github.com/allure-framework/allure-rspec"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/rspec.png" height="70"/>
  <a href="https://github.com/allure-framework/allure-pytest"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/pytest.png" height="70"/>
  <a href="https://github.com/allure-framework/allure-scalatest"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/scalatest.png" height="70"/>
- <a href=""><img src="https://github.com/apostolst/readme-file/blob/ac317373af3ae2d5d157c670c1d7cd57799fcdef/report_icons/frameworks%20:%20languages/colored/php.png" height="70"/>
+ <a href="https://github.com/allure-framework/allure-nunit2"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/nunit.png" height="70"/>
   </p>
 <p align="center">
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/ac317373af3ae2d5d157c670c1d7cd57799fcdef/report_icons/frameworks%20:%20languages/colored/php.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/ac317373af3ae2d5d157c670c1d7cd57799fcdef/report_icons/frameworks%20:%20languages/colored/php.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/ac317373af3ae2d5d157c670c1d7cd57799fcdef/report_icons/frameworks%20:%20languages/colored/php.png" height="70"/>
+ <a href="https://github.com/allure-framework/allure-mstest"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/mstest.png" height="70"/>
+ <a href="https://github.com/allure-framework/allure-specs"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/specs2.png" height="70"/>
+ <a href="https://github.com/ozontech/allure-go"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/go.png" height="70"/>
  <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/ac317373af3ae2d5d157c670c1d7cd57799fcdef/report_icons/frameworks%20:%20languages/colored/php.png" height="70"/>
  <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/ac317373af3ae2d5d157c670c1d7cd57799fcdef/report_icons/frameworks%20:%20languages/colored/php.png" height="70"/>
  <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/ac317373af3ae2d5d157c670c1d7cd57799fcdef/report_icons/frameworks%20:%20languages/colored/php.png" height="70"/>
