@@ -28,7 +28,6 @@
   <a href="https://github.com/allure-framework/allure2/releases">Roadmap</a>
  </p>
 
-
 ## What is Allure Report?
 Allure Report is a flexible open-source multi-language test report tool that shows you a detailed representation of what has been tested and allows you to extract the most from the everyday execution of automated tests. 
 <p align="center">
@@ -134,5 +133,5 @@ This project exists thanks to all the people who contributed. [[Contribute]](.gi
 
 ## License
 The Allure Framework is released under version 2.0 of the [Apache License][license].
-
+  
 [![build-badge][]][build] [![release-badge][]][release] [![maven-badge][]][maven] [![Backers on Open Collective](https://opencollective.com/allure-report/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/allure-report/sponsors/badge.svg)](#sponsors)
