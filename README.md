@@ -102,7 +102,7 @@ This will generate the report, serve it, and open it in the default browser.
   </p>
 <p align="center">
  <a href="https://github.com/allure-framework/allure-cucumber"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/cucumber.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-ruby-commons"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/ruby.png" height="70"/>
+ <a href="https://github.com/ozontech/allure-go"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/go.png" height="70"/>
  <a href="https://github.com/allure-framework/allure-rspec"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/rspec.png" height="70"/>
  <a href="https://github.com/allure-framework/allure-pytest"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/pytest.png" height="70"/>
  <a href="https://github.com/allure-framework/allure-scalatest"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/scalatest.png" height="70"/>
@@ -111,16 +111,15 @@ This will generate the report, serve it, and open it in the default browser.
 <p align="center">
  <a href="https://github.com/allure-framework/allure-mstest"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/mstest.png" height="70"/>
  <a href="https://github.com/allure-framework/allure-specs"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/specs2.png" height="70"/>
- <a href="https://github.com/ozontech/allure-go"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/go.png" height="70"/>
   </p>
     
-## 🏡Join Allure community🏡
-<a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/youtube.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/twitter.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/tg.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/linkedin.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/github.png" height="70"/>
- <a href="https://github.com/allure-framework/allure-php-commons2"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/facebook.png" height="70"/>
+<h2 align="center">  🏡Join Allure community🏡</h2>
+<p align="center">
+<a href="https://www.youtube.com/@QametaSoftwareInc"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/youtube.png" height="70"/>
+ <a href="https://twitter.com/qametasoftware?lang=en"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/twitter.png" height="70"/>
+ <a href="https://t.me/allure_ru"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/tg.png" height="70"/>
+ <a href="https://www.linkedin.com/company/qametasoftware/"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/linkedin.png" height="70"/>
+ <a href="https://github.com/allure-framework/allure2/discussions"><img src="https://github.com/apostolst/readme-file/blob/e83e37ba773331d944a8d011b1eed5df51a461e0/report_icons/soc/github.png" height="70"/>
   </p>
     
 ## Code of Conduct
@@ -135,4 +134,5 @@ This project exists thanks to all the people who contributed. [[Contribute]](.gi
 
 ## License
 The Allure Framework is released under version 2.0 of the [Apache License][license].
+
 [![build-badge][]][build] [![release-badge][]][release] [![maven-badge][]][maven] [![Backers on Open Collective](https://opencollective.com/allure-report/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/allure-report/sponsors/badge.svg)](#sponsors)
