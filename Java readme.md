@@ -3,7 +3,16 @@
 <p align="center">
   <a href="https://docs.qameta.io/allure-report/#_java">Docs</a> |
   <a href="## TestNG">TestNG</a> |
-  <a href="https://github.com/allure-framework/allure2/releases">Roadmap</a>
+  <a href="## JUnit 4">JUnit 4</a> |
+  <a href="## JUnit 5">JUnit 5</a> |
+  <a href="## Selenide">Selenide</a> |
+  <a href="## Rest Assured">Rest Assured</a> |
+  <a href="## OkHttp">OkHttp</a> |
+  <a href="## gRPC">gRPC</a> |
+  <a href="## Http client">Http client</a> |
+  <a href="## JAX-RS Filter">JAX-RS Filter</a> |
+  <a href="## JsonUnit">JsonUnit</a> |
+  <a href="## Awaitility">Awaitility</a> 
  </p>
 
 
@@ -17,7 +26,6 @@
 [CONTRIBUTING.md]: .github/CONTRIBUTING.md
 [docs]: https://docs.qameta.io/allure/2.0/
 
-# Allure Java Integrations 
 
 [![Build](https://github.com/allure-framework/allure-java/actions/workflows/build.yml/badge.svg)](https://github.com/allure-framework/allure-java/actions/workflows/build.yml) 
 [![Allure Java](https://img.shields.io/github/release/allure-framework/allure-java.svg)](https://github.com/allure-framework/allure-java/releases/latest)
