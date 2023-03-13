@@ -2,17 +2,17 @@
 <p align="center"><a href="https://github.com/allure-framework/allure-java" target="_blank"><img src="https://github.com/apostolst/readme-file/blob/main/report_icons/frameworks%20:%20languages/colored/java.png" height="300"/></p>
 <p align="center">
   <a href="https://docs.qameta.io/allure-report/#_java">Docs</a> |
-  <a href="## TestNG">TestNG</a> |
-  <a href="## JUnit 4">JUnit 4</a> |
-  <a href="## JUnit 5">JUnit 5</a> |
-  <a href="## Selenide">Selenide</a> |
-  <a href="## Rest Assured">Rest Assured</a> |
-  <a href="## OkHttp">OkHttp</a> |
-  <a href="## gRPC">gRPC</a> |
-  <a href="## Http client">Http client</a> |
-  <a href="## JAX-RS Filter">JAX-RS Filter</a> |
-  <a href="## JsonUnit">JsonUnit</a> |
-  <a href="## Awaitility">Awaitility</a> 
+  <a href="https://github.com/allure-framework/allure-java/tree/master/allure-java-commons-test">TestNG</a> |
+  <a href="https://github.com/allure-framework/allure-java/tree/master/allure-junit4">JUnit 4</a> |
+  <a href="https://github.com/allure-framework/allure-java/tree/master/allure-junit5">JUnit 5</a> |
+  <a href="https://github.com/allure-framework/allure-java/tree/master/allure-selenide">Selenide</a> |
+  <a href="https://github.com/allure-framework/allure-java/tree/master/allure-rest-assured">Rest Assured</a> |
+  <a href="https://github.com/allure-framework/allure-java/tree/master/allure-okhttp">OkHttp</a> |
+  <a href="https://github.com/allure-framework/allure-java/tree/master/allure-grpc">gRPC</a> |
+  <a href="https://github.com/allure-framework/allure-java/tree/master/allure-httpclient">Http client</a> |
+  <a href="https://github.com/allure-framework/allure-java/tree/master/allure-jax-rs">JAX-RS Filter</a> |
+  <a href="https://github.com/allure-framework/allure-java/tree/master/allure-jsonunit">JsonUnit</a> |
+  <a href="https://github.com/allure-framework/allure-java/tree/master/allure-awaitility">Awaitility</a> 
  </p>
 
 
